@@ -18,7 +18,7 @@ public class TravelNow {
 	 */
 	public static void main(String[] args) {
 		// TODO code application logic here
-		SplashScreen loading = new SplashScreen();
-		loading.setVisible(true);
+		SplashScreen load = new SplashScreen();
+		load.setVisible(true);
 	}
 }
