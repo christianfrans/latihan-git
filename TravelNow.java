@@ -20,6 +20,7 @@ public class TravelNow {
 		// TODO code application logic here
 		SplashScreen loader = new SplashScreen();
 		loader.setVisible(true);
-		System.out.println("testing")
+		System.out.println("testing");
+		System.out.println("Add user 2");
 	}
 }
